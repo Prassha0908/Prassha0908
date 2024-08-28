@@ -7,6 +7,9 @@
 - 👩🏻‍💻 Checkout my projects at [https://github.com/Prassha0908](https://github.com/Prassha0908)
 
 - 📧 Reach me @ **prasshanthini2003@gmail.com**
+  
+- 📄 View resume -> [Resume](https://drive.google.com/file/d/10vQWsoROwLMWWJeIRI2xFeeJ_zu7Y--r/view?usp=sharing)
+  
 
 <br>
 <h3 align="left">Connect with me:</h3>
