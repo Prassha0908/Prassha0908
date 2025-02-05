@@ -8,7 +8,7 @@
 
 - 📧 Reach me @ **prasshanthini2003@gmail.com**
   
-- 📄 View resume -> [Resume](https://drive.google.com/file/d/10IUYJk3EBqMpL144Q40JSW-mLdvV8IXA/view?usp=sharing)
+- 📄 View resume -> [Resume](https://drive.google.com/file/d/1Q3hmnpp6Gj1Td8ctxOaqqs6Zl7rCioKU/view?usp=sharing)
   
 
 <br>
