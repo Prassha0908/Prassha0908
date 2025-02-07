@@ -1,9 +1,10 @@
 <h1 align="center">Hi👋🏻, I'm PRASSHANTHINI R</h1>
-<h3 align="center">Dedicated student with a passion for continuous learning in the AI and Data Science field, showcasing profound expertise in machine learning and web development while demonstrating a keen aptitude for problem-solving.</h3>
+<h3 align="center">I am passionate about Data Science and constantly exploring its evolving tools and technologies. My curiosity about data drives me to uncover meaningful insights and patterns. With a strong problem-solving mindset, I enjoy tackling complex challenges and finding innovative solutions.</h3>
 
+<br/>
 
-- 🌱 I’m currently learning **Data Science**
-
+- 🚀 I'm diving into the world of **Data Science**, exploring insights hidden in data!
+  
 - 👩🏻‍💻 Checkout my projects at [https://github.com/Prassha0908](https://github.com/Prassha0908)
 
 - 📧 Reach me @ **prasshanthini2003@gmail.com**
